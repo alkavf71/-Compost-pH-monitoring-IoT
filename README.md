@@ -1,6 +1,6 @@
 # Compost-pH-monitoring-IoT
 
-Greeting People 
+*Greeting People 
 
 What do they speak?
 
