@@ -1,15 +1,2 @@
 # Compost-pH-monitoring-IoT
-Greeting People
-
-*What do they speak?*
-
-Up to 5 tons of waste can be collected a day with a total of 2 tons of waste that can be processed each day.
-Manually pH check during in the making of compost (Good pH for compost: 7).
-
-*What do they feel?*
-
-It is uncomfortable to check the pH state, and still manually using pH paper.
-
-*What do they think?*
-
-They think that they don’t need chemical additives when decomposing process, think that they need IoT-Based pH monitoring so they don’t have to buy pH meter paper
+In the context of waste management and compost production, there is a need to address certain aspects. Currently, up to 5 tons of waste can be collected daily, but only 2 tons of waste can be processed each day, and this occurs at Telkom University. Additionally, the process of manually checking the pH level during compost production, aiming for an ideal pH of 7, has proven to be uncomfortable and impractical. Instead, they are considering the implementation of an IoT-based pH monitoring system to eliminate the need for purchasing pH meter paper and streamline the pH monitoring process.
