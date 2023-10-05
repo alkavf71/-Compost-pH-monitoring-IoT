@@ -5,7 +5,7 @@ Greeting People
 What do they speak?
 
 Up to 5 tons of waste can be collected a day with a total of 2 tons of waste that can be processed each day.
-Manually pH check during in the making of compost (Good pH for compost: 7 ).
+Manually pH check during in the making of compost (Good pH for compost: 7).
 
 What do they feel?
 
